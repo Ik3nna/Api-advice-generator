@@ -45,4 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - @_Ik3nna 
+- linkedIn - https://www.linkedin.com/in/ikenna-ndukwu-996021177
