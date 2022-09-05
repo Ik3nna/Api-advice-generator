@@ -25,6 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
+![screencapture-localhost-3000-index-html-2022-09-05-01_44_04](https://user-images.githubusercontent.com/101594456/188340496-951cc508-a56b-41c9-ae54-ba20164f0579.png)
 
 
 ### Links
@@ -44,6 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
